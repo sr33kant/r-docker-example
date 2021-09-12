@@ -1,5 +1,3 @@
-install.packages("readr")
-install.packages("taskscheduleR")
 library(plumber)
 library(caret)
 library(jsonlite)
