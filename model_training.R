@@ -1,3 +1,6 @@
+install.packages("NHSRdatasets")
+install.packages("caret")
+install.packages("varhandle")
 library(NHSRdatasets)
 library(dplyr)
 library(tidyr)
