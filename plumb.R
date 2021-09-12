@@ -1,4 +1,4 @@
-ibrary(plumber)
+library(plumber)
 options(warn=-1)
 
 
